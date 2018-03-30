@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GtdNextNote</string>
+    <string name="title_activity_new_note">NewNote</string>
+</resources>
